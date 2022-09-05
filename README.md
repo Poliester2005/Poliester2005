@@ -1,16 +1,20 @@
-### Hi there 👋
+Olá!!! Eu sou o Eduardo Pielich
+- 🔭 Hoje estou mexendo com back-end em sites, especialmente <img height= 15cm src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png'>.
 
-<!--
-**Poliester2005/Poliester2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou aprendendo <img height= 15cm src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png'> e <img height= 15cm src='https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png'>.
 
-Here are some ideas to get you started:
+- 😄 Pronomes: Ele/Dele.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Tenho vários apelidos, alguns deles sendo, Películas, Polieter e Dudu. 
+
+  <img align="center" height="150vh" src='https://github-readme-stats.vercel.app/api?username=Poliester2005&show_icons=true&theme=gotham'>
+  <img align="center" height="150vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poliester2005&show_icons=true&theme=gotham&langs_count=3&layout=compact'>
+
+- Linguagens que sei:
+
+  <img height="80vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="80vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="80vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img height="80vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  
+    ![Snake animation](https://github.com/poliester2005/poliester2005/blob/output/github-contribution-grid-snake.svg)
