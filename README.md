@@ -7,8 +7,10 @@ Olá!!! Eu sou o Eduardo Pielich
 
 - ⚡ Tenho vários apelidos, alguns deles sendo, Películas, Polieter e Dudu. 
 
+<div>
   <img align="center" height="150vh" src='https://github-readme-stats.vercel.app/api?username=Poliester2005&show_icons=true&theme=gotham'>
   <img align="center" height="150vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Poliester2005&show_icons=true&theme=gotham&langs_count=3&layout=compact'>
+</div>
 
 - Linguagens que sei:
 
