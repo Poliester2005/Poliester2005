@@ -1,11 +1,11 @@
 Olá!!! Eu sou o Eduardo Pielich
-- 🔭 Hoje estou mexendo com back-end em sites, especialmente <img height= 15cm src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-javascript-logo.svg.png'>.
+- Hoje estou mexendo com back-end em sites, especialmente <img height= 15cm src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-javascript-logo.svg.png'>.
 
-- 🌱 Estou aprendendo <img height= 15cm src='https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png'> e <img height= 15cm src='https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png'>
+- Estou aprendendo <img height= 15cm src='https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png'> e <img height= 15cm src='https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png'>
 
-- 😄 Pronomes: Ele/Dele.
+- Pronomes: Ele/Dele.
 
-- ⚡ Tenho vários apelidos, alguns deles sendo, Películas, Polieter e Pielich. 
+- Tenho vários apelidos, alguns deles sendo, Películas, Polieter e Pielich. 
 
 <div>
   <img align="center" height="120vh" src='https://github-readme-stats.vercel.app/api?username=Poliester2005&show_icons=true&theme=gotham'>
