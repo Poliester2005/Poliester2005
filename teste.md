@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá! Meu nome é Eduardo Pielich! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h1>
+<h1>Olá! Meu nome é Eduardo Pielich 👋</h1>
 
 <a href="https://br.linkedin.com/in/eduardo-pielich-sanchez-92456021b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
@@ -22,10 +22,10 @@ Meu nome é Eduardo Pielich Sanchez, atualmente sou desenvolvedor full-stack, po
 
 <div align="center"> 
 <a href="https://github.com/Poliester2005">
-  <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliester2005&layout=donut&theme=dark&bg_color=00000000&hide_border=true" />
+  <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliester2005&layout=donut&theme=dark" />
 </a>
 <a href="">
-    <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api?username=Poliester2005&theme=dark&bg_color=00000000&hide_border=true">
+    <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api?username=Poliester2005&theme=dark">
 </a>
 </div>
 
