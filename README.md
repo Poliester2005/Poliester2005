@@ -79,7 +79,7 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 <div align="center">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
 
 ## Estou atualmente trabalhando em:
@@ -90,4 +90,8 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 
 ## Oque estou ouvindo agora... 🎧🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=1a90ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&redirect=true)
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=1a90ff&bar_color_cover=false" alt="Spotify Profile" style="width: 75%">
+</a></div>
+
+
