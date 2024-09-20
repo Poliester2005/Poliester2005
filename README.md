@@ -91,7 +91,7 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 ## Oque estou ouvindo agora... 🎧🎵
 
 <div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=1a90ff&bar_color_cover=false" alt="Spotify Profile" style="width: 75%">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=puguento2005&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=1a90ff&bar_color_cover=false" alt="Spotify Profile" style="width: 75%">
 </a></div>
 
 
