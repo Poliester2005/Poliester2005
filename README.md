@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Meu nome é Eduardo Pielich! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h1>
 
-<img src="eu.jpg" alt="Minha foto" style="border-radius: 50%; width: 50%; max-width: 250px; height: auto; object-fit: cover;">
+<img src="eu.jpg" alt="Minha foto" style="border-radius: 50%; width: 25%; max-width: 250px; height: auto; object-fit: cover;">
 
 
   <h3>Onde me encontrar 😁</h3>
