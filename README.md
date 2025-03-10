@@ -13,7 +13,7 @@
 
 Meu nome é Eduardo Pielich Sanchez, atualmente sou desenvolvedor full-stack, porém tenho maior interesse por a area de Backend.
 
-- 📅 Tenho 19 anos.
+- 📅 Tenho {{IDADE}} anos.
 - 🎓 Estou atualmente cursando Engenharia de Software na Fiap e cursando Analise e Desenvolvimento de Sistemas na FATEC Antônio Russo.
 - 🎮 Nas horas vagas jogo varios games.
   - Minha Steam: <a href="https://steamcommunity.com/profiles/76561198253371240" target="_blank"><img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
@@ -93,5 +93,4 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 <div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=puguento2005&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=puguento2005&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=1a90ff&bar_color_cover=false" alt="Spotify Profile" style="width: 75%">
 </a></div>
-
 

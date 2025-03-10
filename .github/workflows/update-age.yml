@@ -1,0 +1,42 @@
+name: Atualizar Idade no README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa todo dia à meia-noite UTC
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v4
+
+      - name: Calcular idade
+        id: age
+        run: |
+          BIRTH_YEAR=2005
+          BIRTH_MONTH=01
+          BIRTH_DAY=30
+          CURRENT_YEAR=$(date +%Y)
+          CURRENT_MONTH=$(date +%m)
+          CURRENT_DAY=$(date +%d)
+
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          if [ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" ] || ([ "$CURRENT_MONTH" -eq "$BIRTH_MONTH" ] && [ "$CURRENT_DAY" -lt "$BIRTH_DAY" ]); then
+            AGE=$((AGE - 1))
+          fi
+
+          echo "IDADE=$AGE" >> $GITHUB_ENV
+
+      - name: Atualizar README
+        run: |
+          sed -i "s/{{IDADE}}/${{ env.IDADE }}/g" README.md
+
+      - name: Commit e Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Atualizando idade automaticamente 🚀" || echo "Nenhuma mudança detectada"
+          git push
