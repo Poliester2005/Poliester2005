@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Meu nome é Eduardo Pielich! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h1>
 
-  <img src="eu.jpg" alt="Minha foto" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;">
+<img src="eu.jpg" alt="Minha foto" style="border-radius: 50%; width: 100%; max-width: 250px; height: auto; object-fit: cover;">
 
   <h3>Onde me encontrar 😁</h3>
 
@@ -38,9 +38,10 @@ Meu nome é Eduardo Pielich Sanchez, atualmente sou desenvolvedor full-stack, po
 
 ## Meus Projetos 🚀
 
-Confira um dos meus projetos feito para um dos meus clientes: 
+Confira um dos meus projetos feito para um dos meus clientes:
+<br>
 <a href="https://otholuz.netlify.app" target="_blank">
-  <img src='logo.png'>
+<img src='logo.png'>
 </a>
 
 ## Tecnologias
@@ -66,7 +67,6 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </div>
-
 
 ## O que estou estudando
 
