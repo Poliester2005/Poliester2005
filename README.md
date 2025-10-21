@@ -1,20 +1,5 @@
 <div align="center">
   <h1>Olá! Meu nome é Eduardo Pielich! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h1>
-
-<img src="eu.jpg" alt="Minha foto" style="border-radius: 50%; width: 25%; max-width: 250px; height: auto; object-fit: cover;">
-
-
-  <h3>Onde me encontrar 😁</h3>
-
-  <a href="https://br.linkedin.com/in/eduardo-pielich-sanchez-92456021b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="100" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/pielich_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="100" alt="Instagram">
-  </a>
-  <a href="mailto:pielich.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="100" alt="Gmail">
-  </a>
 </div>
 
 ## Sobre mim
@@ -23,6 +8,7 @@ Meu nome é Eduardo Pielich Sanchez, atualmente sou desenvolvedor full-stack, po
 
 - 📅 Tenho 20 anos.
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Antonio Russo e curso Engenharia de Software na FIAP.
+- 🗃️ Estágio na Area de IA da <a href="https://www.sabesp.com.br/">SABESP</a>
 - 🎮 Nas horas vagas jogo vários games.
   - <a href="https://steamcommunity.com/profiles/76561198253371240" target="_blank">Minha Steam</a>
   - <a href="https://www.op.gg/summoners/br/Poliester-3001" target="_blank">Minha conta no League of Legends</a>
@@ -36,14 +22,6 @@ Meu nome é Eduardo Pielich Sanchez, atualmente sou desenvolvedor full-stack, po
     <img height="200rem" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Poliester2005&theme=dark&hide_border=true&background=00000000&stroke=0077B6&ring=0077B6&fire=0077B6&currStreakLabel=0077B6">
   </a>
 </div>
-
-## Meus Projetos 🚀
-
-Confira um dos meus projetos feito para um dos meus clientes: 
-<br>
-<a href="https://otholuz.netlify.app" target="_blank">
-  <img src='logo.png'>
-</a>
 
 ## Tecnologias
 
@@ -81,6 +59,10 @@ Essas são as tecnologias que tenho certa maestria e possuo alguns projetos que 
 <div align="center">
   <a href="https://github.com/MAJE-Tecnologias/Evoluti-React" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MAJE-Tecnologias&repo=Evoluti-React&theme=dark"></a>
 </div>
+
+# Onde me encontrar:
+
+[![Markdown clickable image](https://skillicons.dev/icons?i=linkedin "Click me!")](https://google.com)
 
 ## O que estou ouvindo agora... 🎧🎵
 
